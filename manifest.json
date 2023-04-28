@@ -1,0 +1,24 @@
+{
+  "name": "MusicaFavorita",
+  "short_name": "MyMusic",
+  "description": "Bienvenid@s a mi lista de musica favorita :)",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "./img/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
