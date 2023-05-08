@@ -1,3 +1,9 @@
-# Convierte tu sitio web a PWA
+# Convierte tu sitio **_WEB a PWA_**
 
-- Donaciones https://paypal.me/mepm86
+## Donaciones:
+
+[PAYPAL](https://paypal.me/mepm86) - [MERCADO PAGO](https://mpago.la/2F75hNt)
+
+![](./img/README.jpg)
+
+---
